@@ -9,7 +9,7 @@
 
 Under `Data`, the directory `eBird` contains the following files:
 
-- `Training_Cleaned` contains all comments that have been manually categorized according to a protocol developed by Zarnetske et al. ().
+- `Training_Cleaned` contains all comments that have been manually categorized according to a protocol developed by Zarnetske et al. (https://github.com/AvianMetaNetwork/AvianMetaNetwork).
 - `Original_Comments` contains original eBird data used in the case study with all fields.
 - `Total_Labeled.csv` is a compiled version of all manually categorized comments.
 - `Compare_Checked.csv` contains all comments with LLM predictions and manually checked results.
