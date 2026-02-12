@@ -1,0 +1,60 @@
+id,species2,interaction,species2_corrected,Genus_Match,new_id
+3008404418,alfalfa,Pollination,Medicago sativa,T,1
+2466495816,alfalfa,Pollination,Medicago sativa,T,2
+4982345464,annuals,Pollination,annual plant sp.,F,4
+3333384613,asterácea blanca,Pollination,Asteracea sp.,F,7
+3466140871,Baccharis salicifolia,Pollination,Baccharis salicifolia,T,8
+3456638585,Baja Desert-Thorn,Pollination,Lycium brevipes,T,9
+3455462189,Baja Desert-Thorn,Pollination,Lycium brevipes,T,10
+3407904262,Bidens aurea,Pollination,Bidens aurea,T,11
+4438705616,"Blue Boa agastache, budleia",Pollination,Agastache foeniculum,F,13
+4438705616,"Blue Boa agastache, budleia",Pollination,Buddleja sp.,T,14
+2609253136,blue mist,Pollination,Conoclinium coelestinum,F,15
+4903860964,buddleia,Pollination,Buddleja sp.,T,20
+4431178251,buddleia,Pollination,Buddleja sp.,T,21
+4921876871,butterfly bush,Pollination,Buddleja sp.,T,22
+4414158784,Buttonbush,Pollination,Cephalanthus occidentalis,F,23
+4945867586,chives,Pollination,Allium sp.,T,25
+4130021841,common sow-thistle,Pollination,Sonchus oleraceus,T,28
+3759267854,Coreopsis lanceolata,Pollination,Coreopsis lanceolata,T,29
+1099958018,culinary sage,Pollination,Salvia officinalis,T,31
+2005279318,Desert Lavender,Pollination,Hyptis emoryi,F,32
+2626275634,Dichelostemma capitatum,Pollination,Dichelostemma capitatum,F,33
+1088908805,Echinacea,Pollination,Echinacea sp.,T,34
+2898484171,Ericameria nauseosus,Pollination,Ericameria nauseosus,T,35
+2466465435,Eriogonum sp.,Pollination,Eriogonum sp.,T,36
+1453530328,fiddleneck,Pollination,Amsinckia sp.,T,39
+1920792231,flower,Pollination,flowering plant sp.,F,40
+4127150725,geum,Pollination,Geum sp.,F,41
+1586096953,Gumplant,Pollination,Grindelia squarrosa,T,42
+1572368993,Gumplant,Pollination,Grindelia squarrosa,T,43
+1890693958,lobelia,Pollination,Lobelia sp.,T,50
+3416077196,Lycianthes rantonnetii,Pollination,Lycianthes rantonnetii,F,51
+3947459737,madrone,Pollination,Arbutus sp.,F,52
+2242835019,madrone tree,Pollination,Arbutus sp.,F,53
+4440925762,mallow (Malva),Pollination,Malva sp.,T,54
+2466495668,marigolds,Pollination,Tagetes sp.,T,55
+4982277991,mexican marigold (tagetes lemmonii),Pollination,Tagetes lemmonii,T,56
+4405067968,Monardella sp.,Pollination,Monardella sp.,T,57
+4872513803,mustard,Pollination,Brassica sp.,F,58
+2028453748,native salvia,Pollination,Salvia sp.,T,59
+4413999989,oregano,Pollination,Oreganum vulgare,F,60
+4516410704,pansy,Pollination,Viola tricolor,F,63
+4413862939,Pennyroyal,Pollination,Mentha pulegium,F,64
+4978174373,Phacelia distans,Pollination,Phacelia distans,F,65
+4440981819,Plumbago auriculata,Pollination,Plumbago auriculata,F,66
+2873896552,purple mum,Pollination,Chrysanthemum sp.,F,67
+2429589697,rabbit brush,Pollination,Ericameria sp.,T,69
+2466530141,rabbitbrush,Pollination,Ericameria sp.,T,70
+2466528059,rabbitbrush,Pollination,Ericameria sp.,T,71
+1883557197,Russian Sage,Pollination,Salvia yangii,T,73
+4424553845,"Sea Rocket, Verbina",Pollination,Verbena sp.,T,75
+4424541957,"Sea Rocket, Verbina",Pollination,Verbena sp.,T,77
+2466487408,sunflowers,Pollination,Helianthus sp.,F,82
+4153475101,sweet scabious,Pollination,Scabiosa atropurpurea,T,83
+3384956180,"Tithonia tubaeformis, Calendula officinalis",Pollination,Calendula officinalis,F,90
+4421151042,Western Mountain Aster,Pollination,Symphyotrichum spathulatum,T,99
+4420906445,Western Mountain Aster,Pollination,Symphyotrichum spathulatum,T,100
+4417028494,Western Mountain Aster,Pollination,Symphyotrichum spathulatum,T,101
+4413532286,Western Mountain Asters,Pollination,Symphyotrichum spathulatum,T,102
+3008410425,yellow Sweet Clover,Pollination,Melilotus officinalis,F,104

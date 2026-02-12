@@ -1,0 +1,491 @@
+global_unique_identifier,species1_common,species2_common,interaction
+URN:CornellLabOfOrnithology:EBIRD:OBS1918717315,field sparrow,"atsp, deju",facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1921250553,lapland longspur,larks,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1912066311,lesser scaup,ruddy ducks,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1602106621,merlin,bird,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1915646892,ruddy duck,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1887661408,snow goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1633635809,american wigeon,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1637110785,northern shoveler,"mallards, gwte",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1637499646,horned grebe,rtl,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1630388592,trumpeter swan,bald eagle,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1611074318,red-tailed hawk,crows,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1927080626,sharp-shinned hawk,sparrow,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1873639693,ross's goose,snow goose,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1932136151,trumpeter swan,"mute swans, tundra swans",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1629367898,sandhill crane,greater white-fronted geese,facilitation-comigration
+URN:CornellLabOfOrnithology:EBIRD:OBS1632915682,evening grosbeak,"gold finch, morning doves",facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1626309322,american crow,great horned owl,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1624722224,brown-headed cowbird,rwbl,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1629557021,common loon,herring gulls,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1898247404,ruffed grouse,"modos, blja",facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1642206333,red-winged blackbird,common grackles,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1901352328,sharp-shinned hawk,downy woodpecker,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1924360253,purple finch,house finches,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1664311501,merlin,mallards,amensalism
+URN:CornellLabOfOrnithology:EBIRD:OBS1876309732,ross's goose,canada geese,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1883501104,northern shrike,hairy woodpecker,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1921421808,northern shoveler,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1872943051,downy woodpecker,rtha,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1926854079,pied-billed grebe,"mallards, golden eyes",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1603114497,greater scaup,lessers,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1891294382,pine siskin,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1634127985,cedar waxwing,bohemians,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1634478832,bald eagle,crow,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1925242817,double-crested cormorant,gulls,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1925313251,white-crowned sparrow,"hosp, atsp",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1884244073,american golden-plover,dunlin,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1623621376,european starling,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1889444265,red-tailed hawk,passerine,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1630853606,red-shouldered hawk,rtha,competition
+URN:CornellLabOfOrnithology:EBIRD:OBS1607143387,common merganser,common goldeneyes,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1636727692,northern shoveler,"canada geese, mallards",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1912346414,golden eagle,bald eagle,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1924336274,savannah sparrow,"tree sparrows, buntings",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1639211377,american crow,eagles,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1926557717,ruffed grouse,modos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1903593499,common grackle,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1605515878,northern pintail,"mallard, canada geese",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1871300162,brant,cagos,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1904102572,bald eagle,common mergansers,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1614480755,american crow,"rtha, ghow",mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1907156417,hermit thrush,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1604739898,sharp-shinned hawk,chickadee,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1597949722,boreal chickadee,bcch,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1866289400,black scoter,surf scoters,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1876879772,dunlin,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1919280218,snow goose,canada geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1904906996,hooded merganser,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1611263984,ross's goose,cago,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1924506709,snow bunting,american trees sparrows,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1936118594,fox sparrow,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1920717632,short-eared owl,rlha,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1926913829,bald eagle,golden eagle,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1634802507,merlin,starlings,amensalism
+URN:CornellLabOfOrnithology:EBIRD:OBS1616338523,redhead,scaup,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1634178188,cedar waxwing,robin,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1960189527,hairy woodpecker,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1898845031,common grackle,eust,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1901892779,ruffed grouse,modos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1601612725,bald eagle,gulls,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1868009656,greater scaup,lessers,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1903474079,bald eagle,common mergansers,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1899108689,trumpeter swan,tundra swans,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1892813305,fox sparrow,deju,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1616372323,american wigeon,aythya,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1918473298,northern shrike,blue jays,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1639946191,brown-headed cowbird,bb,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1632896216,red-winged blackbird,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1629274488,northern pintail,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1924996981,fox sparrow,other birds,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1916109377,ruffed grouse,modos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1654470948,hermit thrush,robins,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1611712183,lesser scaup,geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1907123428,hooded merganser,common goldeneye,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1633373425,brown creeper,"woodpeckers, nuthatch",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1632215390,snow goose,canadas,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1867070072,lesser yellowlegs,greater yellowlegs,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1903345961,blue-winged teal,gadwalls,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1892414184,short-eared owl,harrier,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1889599680,trumpeter swan,tundra,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1632495790,red-winged blackbird,"grackles, starlings",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1914216758,northern shoveler,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1631474746,american crow,"peregrine falcon, red-tailed hawks",mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1642578751,trumpeter swan,tundra swan,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1914368827,snow goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1607416205,american black duck,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1916543770,brant,canadas,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1933281819,peregrine falcon,dove,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1899975736,common grackle,"rusty, red wing, cowbird",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1912999360,american white pelican,tundra swans,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1612148732,tundra swan,mute swans,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1896957299,iceland gull,"ring-billed, herring gulls",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1625377344,sharp-shinned hawk,rbnu,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1914572477,northern pintail,mallards,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1620628154,common raven,crows,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1628143297,red-tailed hawk,cooper's hawk,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1607202100,mallard,white duck,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1893608495,american crow,great horned owl,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1599553439,bald eagle,geese,amensalism
+URN:CornellLabOfOrnithology:EBIRD:OBS1897588520,northern pintail,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1905801300,short-eared owl,harrier,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1930158978,snow goose,canadas,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1874036027,american crow,"eagle, red tail hawk",mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1910184014,cedar waxwing,robins,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1910084046,sanderling,purple sandpipers,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1919263240,snow goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1630225242,lesser scaup,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1616448989,snow bunting,horned larks,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1895772131,sharp-shinned hawk,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1637366185,barred owl,crows,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1883435819,purple sandpiper,ring-billed seagull,amensalism
+URN:CornellLabOfOrnithology:EBIRD:OBS1641751469,brown-headed cowbird,red-winged blackbirds,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1628217723,fox sparrow,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1902078691,tundra swan,trumpeters,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1628253848,bald eagle,"immature eagle, red tailed hawk",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1896245152,greater white-fronted goose,canadian geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1920706432,iceland gull,"herg, rbgu",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1881530434,greater scaup,lesc,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1870131848,greater white-fronted goose,cang,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1605558190,bald eagle,mallards,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1892029446,american crow,red tailed hawk,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1932579646,common loon,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1912499492,gadwall,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1883708794,king eider,long-tailed ducks,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1611908537,long-tailed duck,goldeneyes,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1873651585,dunlin,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1923037457,greater white-fronted goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1932621490,american goldfinch,"pine siskins, house finches",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1885183090,ring-necked duck,bald eagle,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1623011011,fox sparrow,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1920801470,european starling,robins,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1968559426,snow goose,canadian geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1890682689,ovenbird,"lincoln's, white-throateds",facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1621564789,brown-headed cowbird,starlings,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1924874085,american robin,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1912538584,yellow-bellied sapsucker,downy woodpecker,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1603116256,cackling goose,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1904247038,rusty blackbird,robins,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1868507247,redhead,"ring-necks, buffleheads",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1928400213,lesser scaup,grsc,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1639629616,brown-headed cowbird,"starlings, grackles, red-winged blackbirds",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1927798132,bald eagle,cooper's hawk,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1613721231,peregrine falcon,rock pigeons,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1728894840,american goldfinch,house finches,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1611783939,cackling goose,canada flocks,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1637643942,lapland longspur,horned larks,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1887119042,snow goose,canada geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1918298361,american wigeon,swans,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1602165385,brown-headed cowbird,starlings,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1917764459,snow goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1869221345,brant,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1902129204,song sparrow,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1895858831,glaucous gull,"herring, ring billed gulls",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1924368733,red-winged blackbird,"house sparrows, juncos, trees sparrows, finches",facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1599548895,american crow,owl,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1912589170,tundra swan,"mute, trumpeters",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1897701356,snow goose,canadian geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1634070456,dark-eyed junco,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1899072050,common grackle,e. starlings,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1915415259,hooded merganser,"mergansers, mallards",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1933542816,black scoter,white winged scoters,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1912317250,sharp-shinned hawk,brcr,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1598725146,evening grosbeak,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1619432448,eastern meadowlark,horned larks,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1631530573,lapland longspur,hola,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1869114817,purple finch,house finches,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1914352160,ruffed grouse,modos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1639192373,sharp-shinned hawk,birds,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1916393303,cackling goose,cagos,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1594819698,common grackle,"starlings, dove",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1607991791,brown-headed cowbird,rwbl,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1930338106,sharp-shinned hawk,songbirds,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1639969393,hairy woodpecker,downies,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1912731382,short-eared owl,harrier,facilitation-distress calls
+URN:CornellLabOfOrnithology:EBIRD:OBS1891489235,iceland gull,herrings,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1617628015,black scoter,common goldeneyes,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1869058599,greater yellowlegs,leye,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1603613378,cedar waxwing,"bohemian waxwings, starlings",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1618239414,white-throated sparrow,"house sparrows, cardinals",facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1643631270,harlequin duck,lesser scaup,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1935935643,ring-necked duck,canadian geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1641898699,common grackle,blackbirds,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1905808266,american kestrel,kestrel,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1920730279,yellow-rumped warbler,chickadees,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1607139027,golden eagle,red-tailed hawks,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1628842838,bohemian waxwing,waxwings,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1599613372,long-tailed duck,goldeneyes,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1596870001,great black-backed gull,rbgu,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1917045206,ruffed grouse,modos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1913459031,cackling goose,cang,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1607173024,field sparrow,atsp,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1892126452,surf scoter,buffleheads,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1621146992,green-winged teal,"mallards, gadwall",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1938679732,pine siskin,american goldfinches,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1602487221,american crow,red-tailed hawk,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1627743332,cackling goose,canadas,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1626414670,mallard,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1882967144,white-rumped sandpiper,dunlin,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1876902772,black-crowned night heron,limpkin,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1867478295,brant,canadas,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1647580512,common raven,crows,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1631622340,gadwall,"eagles, waterfowl",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1910716096,cackling goose,cang,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1914473032,iceland gull,ring-billed gulls,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1877427772,brant,"mallards, green winged teal, mute swans",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1926310028,snow bunting,northern harriers,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1934233183,greater scaup,"redhead, canvasback, lesser scaup",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1643580779,trumpeter swan,mute swans,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1898744858,common grackle,"red-wings, cowbirds",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1608959350,long-tailed duck,common goldeneyes,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1631589524,red-winged blackbird,starlings,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1636615011,lesser scaup,redheads,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1931170460,horned lark,snow buntings,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1925808012,bonaparte's gull,rbgu,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1877763109,horned lark,,
+URN:CornellLabOfOrnithology:EBIRD:OBS2281113634,red-shouldered hawk,"crow, blue jay",mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1621434561,eastern bluebird,juncos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1616410587,lapland longspur,"hola, snbu",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1896136620,redhead,mallards,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1628290881,brown-headed cowbird,starlings,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1920186243,great black-backed gull,"ring-billed, herring gulls",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1613767961,cackling goose,cago,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1866397689,bonaparte's gull,gadwall,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1636291449,ring-billed gull,crows,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1626234607,lesser black-backed gull,herring gulls,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1644014715,american crow,red-tailed hawk,facilitation-distress calls
+URN:CornellLabOfOrnithology:EBIRD:OBS1931255907,tufted titmouse,"junco, house finch",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1635958994,common loon,rngrs,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1634427569,lapland longspur,horned larks,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1901217740,short-eared owl,northern harriers,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1897419301,eastern screech-owl,chickadees,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1634080385,common merganser,greater scaups,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1910981864,snow goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1879036464,brant,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1872801831,black-chinned hummingbird,chickadees,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1643046052,wood duck,geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1911157759,house finch,"pufi, agol",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1866135751,black scoter,divers,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1613622761,yellow-rumped warbler,eastern bluebirds,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1637200861,common grackle,rwbl,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1919080600,downy woodpecker,bljas,competition
+URN:CornellLabOfOrnithology:EBIRD:OBS1923293450,common grackle,cowbirds,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1903216632,surf scoter,"redheads, scaup",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1904010593,hooded merganser,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1935149458,brown-headed cowbird,eust,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1925368636,fox sparrow,"juncos, tree sparrows",facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1921522796,ross's goose,"snow goose, canada",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1935429907,redhead,greater scaup,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1640680794,sandhill crane,canada geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1921753560,tundra swan,trumpeters,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1618231591,horned lark,snow buntings,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1938124672,bald eagle,crows,commensalism-scavenge
+URN:CornellLabOfOrnithology:EBIRD:OBS1937522882,lesser scaup,greater,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1640249861,lapland longspur,snow buntings,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1618609235,horned lark,snbu,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1636671077,redhead,lesc,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1638822653,cackling goose,canadian geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1881429771,ruddy duck,redhead,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1602498796,brown-headed cowbird,blackbirds,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1636889381,boreal chickadee,bcchs,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1885758132,american robin,cedar waxwings,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1878068597,red crossbill,white winged,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1605524848,lesser black-backed gull,herg,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1621187204,black scoter,"common mergs, goldeneyes",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1606835255,american robin,cedar waxwings,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1887393125,cackling goose,"mallards, canada geese",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1637386485,brown-headed cowbird,mixed flock,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1926840065,tundra swan,trumpeter swans,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1933565578,song sparrow,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1630922458,common grackle,rwbl,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1891455793,american black duck,"mallards, canada geese",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1621282827,bald eagle,goea,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1915696343,yellow-rumped warbler,mixed flock,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1630017093,wood duck,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1632942698,red-winged blackbird,"eust, cogr, bhco",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1917525758,great egret,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1916413099,redhead,"mergansers, mallards",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1906599176,sharp-shinned hawk,house sparrows,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1926803626,snow bunting,horned lark,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1642529530,hooded merganser,come,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1611977282,american crow,hawk,commensalism-scavenge
+URN:CornellLabOfOrnithology:EBIRD:OBS1935345700,sandhill crane,geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1930032118,lesser scaup,grsc,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1918298356,canvasback,other species,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1628300139,lesser scaup,mall,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1896029308,ruffed grouse,modos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1918215993,snow goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1879545632,brant,"mallards, canada geese",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1865599301,snow goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1641751466,red-winged blackbird,"cowbirds, blackbirds",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1935047460,iceland gull,herg,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1905856015,common raven,american crows,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1899889777,short-eared owl,northern harrier,aggression
+URN:CornellLabOfOrnithology:EBIRD:OBS1607846808,ring-necked duck,greater scaup,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1926888296,hooded merganser,cogo,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1918356168,greater white-fronted goose,cang,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1598839776,american wigeon,black ducks,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1937358859,green-winged teal,mallards,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1873092061,common loon,gulls,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1895105996,brown-headed cowbird,starlings,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1633635792,american black duck,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1925991190,fox sparrow,tree sparrow,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1895177096,snow goose,canadian geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1869649572,short-eared owl,amcr,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1915485338,purple finch,house sparrows,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1644644833,gadwall,eagle,amensalism
+URN:CornellLabOfOrnithology:EBIRD:OBS1927538182,american robin,starlings,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1601772301,gadwall,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1864808014,tundra swan,trumpeters,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1624728969,bald eagle,mallards,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1871750281,american pipit,snow buntings,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1919320143,horned lark,snow buntings,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1917500847,snow goose,cang,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1918069287,ruffed grouse,modos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1633952606,song sparrow,tree sparrows,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1916304722,bonaparte's gull,"canada geese, hering, ring-billed gulls",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1594192540,american wigeon,"mallards, black ducks",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1600526581,american wigeon,ducks,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1890890761,red-shouldered hawk,"hairy, downy woodpecker",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1883363063,trumpeter swan,tundra swans,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1930009876,eastern towhee,cardinals,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1641228612,common raven,amcr,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1633313719,red-breasted nuthatch,white-breasted nuthatch,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1639629614,red-winged blackbird,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1867063722,lesser yellowlegs,greater yellowlegs,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1912694405,cackling goose,canadas,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1918329250,american tree sparrow,"cardinals, juncos",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1636291442,ring-necked duck,redheads,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1888380182,short-eared owl,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1938602749,bonaparte's gull,gulls,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1898671092,red-breasted merganser,hooded mergansers,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1867555568,brant,canada geese,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1607945963,golden-crowned kinglet,"chickadee, titmice",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1594369115,trumpeter swan,"mute swans, tundra",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1916424339,brant,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1632359999,red-winged blackbird,grackles,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1915711304,american black duck,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1872736571,snow goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1892271405,red-necked grebe,hogr,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1638002397,red-tailed hawk,crows,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1881474383,hairy woodpecker,downy,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1923414206,red-headed woodpecker,rbwo,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1880373534,brant,mallards,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1636631196,red-breasted merganser,"common, hooded mergansers",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1611580585,white-crowned sparrow,house sparrows,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1628306871,sharp-shinned hawk,tufted titmouse,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1633639403,lesser scaup,mallards,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1598057970,greater white-fronted goose,canadas,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1620783275,sharp-shinned hawk,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1895019230,glaucous gull,herrings,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1872002824,little gull,bonies,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1930398488,trumpeter swan,mute,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1608927771,snow goose,cagos,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1630967021,fox sparrow,cooper's,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1637431136,brown-headed cowbird,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1622749248,song sparrow,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1875504224,black scoter,bufflehead,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1890738528,little gull,bonaparte's gulls,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1639635466,common grackle,robins,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1944601421,surf scoter,wwsc,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1898928656,trumpeter swan,"mutes, tundras",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1873989963,brant,mallards,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1618234512,sharp-shinned hawk,mourning dove,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1643564638,lesser black-backed gull,herring gulls,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1635642758,white-crowned sparrow,tree sparrows,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1599414483,long-tailed duck,golden eyes,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1932062392,hooded merganser,"common goldeneye, american black duck",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1871381199,golden eagle,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1926840067,trumpeter swan,"canada geese, mallards, mute swans, tundra swan",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1902045784,white-winged crossbill,merlin,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1639629612,common grackle,"rwbls, starlings, cowbirds",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1880072351,fox sparrow,juncos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1900586006,field sparrow,"juncos, tree sparrows",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1877407677,eastern towhee,sparrows,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1635896520,lesser scaup,rndu,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1602946699,cackling goose,"geese, mallards",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1874044610,purple sandpiper,sea gulls,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1952072459,sharp-shinned hawk,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1902213485,pine siskin,white winged crossbills,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1641862614,european starling,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1642988916,iceland gull,"ring-billed, herring gull",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1611694141,cackling goose,mallards,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1635962448,common grackle,red winged blackbirds,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1607911713,greater scaup,redheads,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1645746732,american crow,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1643478948,american black duck,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1902034069,common goldeneye,northern shovelers,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1632483134,greater white-fronted goose,canada's,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1611650964,common grackle,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1889371855,white-winged scoter,susc,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1876028479,ross's goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1898552565,american black duck,mallard,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1868935118,black scoter,hooded merganser,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1606472454,short-eared owl,northern harriers,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1937362172,bufflehead,common goldeneyes,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1640224692,white-throated sparrow,"tree sparrows, goldfinches",facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1904057198,redhead,scaups,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1927614314,canada goose,bird,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1901436304,glaucous gull,herg,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1595627121,horned grebe,"common goldeneyes, greater scaup",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1899811578,black scoter,redheads,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1621890224,snow bunting,"horned larks, lapland longspurs",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1611649515,fox sparrow,house sparrows,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1886647132,trumpeter swan,musw,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1878181945,canvasback,ring-necks,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1866994567,tundra swan,mutes,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1915646889,bufflehead,mixed duck groups,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1607296695,green-winged teal,mallards,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1912449464,swamp sparrow,atsp,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1915646887,greater scaup,lesser scaups,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1907077940,pine siskin,goldfinches,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1875220301,pine siskin,goldfinches,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1618991365,red-bellied woodpecker,"doves, hairy",competition
+URN:CornellLabOfOrnithology:EBIRD:OBS1902918209,lesser scaup,bald eagle,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1649682843,brown-headed cowbird,red winged blackbirds,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1639247770,pileated woodpecker,"downy, red bellied woodpecker",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1642998170,lesser scaup,goldeneyes,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1868965955,ring-billed gull,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1925309507,snow bunting,"horned larks, lapland longspurs",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1873580615,snow goose,"cago, mallards, sandhill cranes, ross's goose",facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1626312985,wood duck,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1644664093,trumpeter swan,mute swans,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1612835247,european starling,coha,amensalism
+URN:CornellLabOfOrnithology:EBIRD:OBS1883422155,eastern towhee,"cardinal, tree sparrows",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1636155529,gadwall,canadian geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1616414267,horned lark,"juncos, atsps",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1628509477,sandhill crane,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1865399915,rusty blackbird,"starling, redwing blackbirds",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1935354416,mallard,geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1608786586,bald eagle,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1921642264,american wigeon,gadw,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1910319178,short-eared owl,noha,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1640463622,sharp-shinned hawk,small bird,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1911096611,hooded merganser,"mallards, canada geese",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1903936430,merlin,crows,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS2237097926,canvasback,redhead,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1867276893,snow goose,trumpeter swans,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1925131464,red-tailed hawk,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1597266763,pine siskin,amgo,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1896201986,bald eagle,crows,mobbing
+URN:CornellLabOfOrnithology:EBIRD:OBS1636183957,red-winged blackbird,"cogr, rubl, yhbb, bhco",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1641784842,horned lark,harrier,predation
+URN:CornellLabOfOrnithology:EBIRD:OBS1913579037,brown-headed cowbird,grackles,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1607200365,hooded merganser,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1597329781,american wigeon,scaups,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1933383645,bohemian waxwing,cedw,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1897518294,white-winged scoter,susc,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1594190049,trumpeter swan,"geese, mallards",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1914167176,cackling goose,canadian geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1866979349,chipping sparrow,juncos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1865425749,snow goose,cago,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1924083825,common grackle,"juncos, tree sparrows",facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1927614310,house finch,"eust, hosp",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1890423335,cedar waxwing,"robins, starlings",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1867899496,snow goose,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1914452550,iceland gull,herrings,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1604725052,ross's goose,canadas,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1887145422,cackling goose,cangs,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1595575261,cackling goose,canadas,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1600447608,european starling,bohemian waxwings,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1615011111,wood duck,mallards,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1886389633,iceland gull,rbgu,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1912897027,snow goose,canada geese,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1919276090,red-headed woodpecker,blue jays,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1621674491,american robin,juncos,facilitation-feeding
+URN:CornellLabOfOrnithology:EBIRD:OBS1631101475,northern flicker,,
+URN:CornellLabOfOrnithology:EBIRD:OBS1623532976,cedar waxwing,robins,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1620639081,cackling goose,ross's,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1597943422,tundra swan,mute swans,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1637171929,american goldfinch,evening grosbeaks,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1641524543,horned lark,"snow bunting, lapland longspur",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1889394333,field sparrow,atsps,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1937132931,hermit thrush,robin,co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1919116981,cackling goose,"cang, snow goose",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1879118460,brant,"canadas, mallards",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1636762596,lesser black-backed gull,"ring-bills, herring",facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1934892463,mallard,canada geese,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1931944381,lapland longspur,tree sparrows,facilitation-mixed flocking
+URN:CornellLabOfOrnithology:EBIRD:OBS1604679720,trumpeter swan,"mutes, tundras",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1598673101,iceland gull,"rbgu, hegu",co-occur
+URN:CornellLabOfOrnithology:EBIRD:OBS1629538648,pied-billed grebe,coots,facilitation-mixed flocking

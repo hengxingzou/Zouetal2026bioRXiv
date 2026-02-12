@@ -1,0 +1,957 @@
+id,species2,species2_corrected,interaction
+4416956359,Achillea millefolium,Achillea millefolium,Co-occur
+2012960291,African daisy,Osteospermum sp.,Co-occur
+4153983727,alfalfa,Medicago sativa,Co-occur
+3008404418,alfalfa,Medicago sativa,Pollination
+2466495816,alfalfa,Medicago sativa,Pollination
+3384314218,Alkali Heliotrope,Heliotropium curassavicum,Co-occur
+2901696625,Alkali Heliotrope,Heliotropium curassavicum,Co-occur
+2294667940,Alkali Heliotrope,Heliotropium curassavicum,Pollination
+4982345464,annuals,annual plant sp.,Pollination
+2802927436,apricot mallow,Sphaeralcea ambigua,Herbivory
+3456546867,Arctostaphylos,Arctostaphylos sp.,Co-occur
+4901815742,Armenian blackberry,Rubus armeniacus,Pollination
+4901335214,Armenian blackberry,Rubus armeniacus,Pollination
+3333384613,asterácea blanca,Asteracea sp.,Pollination
+4165473235,"Asteraceae, Eriophyllum lanatum",Eriophyllum lanatum,Co-occur
+4936378555,Baccharis,Baccharis sp.,Co-occur
+4936237929,Baccharis,Baccharis sp.,Co-occur
+4936017422,Baccharis,Baccharis sp.,Co-occur
+3466140871,Baccharis salicifolia,Baccharis salicifolia,Pollination
+1839259270,bachelor button,Centaurea cyanus,Co-occur
+4936764359,Bahiopsis laciniata,Bahiopsis laciniata,Co-occur
+3456638585,Baja Desert-Thorn,Lycium brevipes,Pollination
+3455462189,Baja Desert-Thorn,Lycium brevipes,Pollination
+3407904262,Bidens aurea,Bidens aurea,Pollination
+2242965426,Bidens nudata,Bidens nudata,Co-occur
+2331915118,"Black Nightshade, Milk Thistle","Solanum nigrum, Silybum marianum",Co-occur
+4080511975,Black Sage,Salvia mellifera,Pollination
+4438705616,"Blue Boa agastache, budleia","Agastache foeniculum, Buddleja sp.",Pollination
+2609253136,blue mist,Conoclinium coelestinum,Pollination
+4054814768,borage,Borago officinalis,Co-occur
+5007424668,Brambles,Rubus sp.,Co-occur
+4431210513,bristly oxtongue,bristly oxtongue,Co-occur
+4413376069,Bristly Oxtongue,Helminthotheca echioides,Co-occur
+2397565571,Bristly Oxtongue,Helminthotheca echioides,Co-occur
+2294513940,Bristly Oxtongue,Helminthotheca echioides,Pollination
+1847623354,bristly oxtongue,Helminthotheca echioides,Pollination
+1847622899,bristly oxtongue,Helminthotheca echioides,Pollination
+4103411626,brittlebush,Encelia farinosa,Pollination
+4919677589,broadleaf plants,plant sp.,Co-occur
+4903860964,buddleia,Buddleja sp.,Pollination
+4431178251,buddleia,Buddleja sp.,Pollination
+4413886184,Buddleia,Buddleja sp.,Co-occur
+4413640065,Buddleia,Buddleja sp.,Co-occur
+5063294234,"Buddleia, Butterfly bush",Buddleja sp.,Co-occur
+891099554,"Bush Groundsel, Senecio douglasii",Senecio douglasii,Co-occur
+4424579293,"bush sunflowers, Encelia californica",Encelia californica,Co-occur
+4921876871,butterfly bush,Buddleja sp.,Pollination
+4413800586,butterfly bush,Buddleja sp.,Co-occur
+4414158784,Buttonbush,Cephalanthus occidentalis,Pollination
+4442752576,California Brittlebush,Encelia californica,Co-occur
+3398702305,Centranthus ruber,Centranthus ruber,Pollination
+3764164831,chamise,Adenostoma fasciculatum,Co-occur
+891743216,cheese weed,Malva parviflora,Herbivory
+3784829869,cheeseweed,Malva parviflora,Co-occur
+4525147659,"cheeseweed, *Malva parviflora*",Malva parviflora,Herbivory
+3499423745,chickweed,Stellaria media,Co-occur
+4945867586,chives,Allium sp.,Pollination
+3961033561,Coast Goldenbush (Isocoma menziesii),Isocoma menziesii,Pollination
+3343944302,Coast Live Oak,Quercus agrifolia,Co-occur
+2641313730,Common Mallow (Malva neglecta),Malva neglecta,Herbivory
+1883549417,Common Mallow (Malva neglecta),Malva neglecta,Co-occur
+3698237612,Common Manzanita,Arctostaphylos manzanita,Co-occur
+2576294345,Common manzanita,Arctostaphylos manzanita,Pollination
+2574042332,Common manzanita,Arctostaphylos manzanita,Co-occur
+4130021841,common sow-thistle,Sonchus oleraceus,Pollination
+2422978875,Coreopsis,Coreopsis sp.,Co-occur
+3759267854,Coreopsis lanceolata,Coreopsis lanceolata,Pollination
+4936498311,"coreopsis, marigold, Douglas fir","Coreopsis sp., Tagetes sp., Pseudotsuga menziesii",Co-occur
+4127369680,cowpen daisy,Verbesina encelioides,Co-occur
+3860206405,cowpen daisy,Verbesina encelioides,Co-occur
+3802712210,cowpen daisy,Verbesina encelioides,Co-occur
+3333153888,cowpen daisy,Verbesina encelioides,Co-occur
+4976339055,coyote brush,Baccharis vanessae,Co-occur
+2596337010,creosotebush,Larrea tridentata,Co-occur
+4130192400,Cretan Mallow,Malva multiflora,Pollination
+4892101420,Cretan Tree-Mallow (Malva multiflora),Malva multiflora,Co-occur
+1099958018,culinary sage,Salvia officinalis,Pollination
+2596336241,cultivated ceanothus,Ceanothus sp.,Co-occur
+4165682886,currant,Ribes sp.,Co-occur
+4440774689,dandelion,Taraxacum sp.,Co-occur
+2005279318,Desert Lavender,Hyptis emoryi,Pollination
+2626275634,Dichelostemma capitatum,Dichelostemma capitatum,Pollination
+1088908805,Echinacea,Echinacea sp.,Pollination
+4936787276,Encelia californica,Encelia californica,Co-occur
+4171776645,Encelia californica,Encelia californica,Co-occur
+2898484171,Ericameria nauseosus,Ericameria nauseosus,Pollination
+3903135286,Eriogonum nudum,Eriogonum nudum,Co-occur
+2466465435,Eriogonum sp.,Eriogonum sp.,Pollination
+1586924714,"eucalipto, encino","Eucalyptus sp., Quercus sp.",Co-occur
+3399323161,eupatorium greggii,Eupatorium greggii,Co-occur
+2234748347,fennel,Foeniculum vulgare,Pollination
+1586143997,fennel,Foeniculum vulgare,Pollination
+1453530328,fiddleneck,Amsinckia sp.,Pollination
+3985942164,flores,flowering plant sp.,Co-occur
+1920792231,flower,flowering plant sp.,Pollination
+4165879394,"Fremontodendron, Malacothamnus sp.","Fremontodendron sp., Malacothamnus sp.",Co-occur
+3090752725,Gaillardia,Gaillardia sp.,Co-occur
+2873916388,garden lantana,Lantana camara,Co-occur
+2236884124,Garland Daisies,Glebionis coronaria,Co-occur
+4127150725,geum,Geum sp.,Pollination
+4936106424,Glebionis coronaria,Glebionis coronaria,Co-occur
+3343838182,Globe Amaranth,Gomphrena globosa,Co-occur
+3802283653,"globe mallow, milkweed","Sphaeralcea ambigua, Asclepias sp.",Co-occur
+5108446324,globemallow,Sphaeralcea ambigua,Herbivory
+4853037949,grass,grass sp.,Co-occur
+4096520717,grass,grass sp.,Co-occur
+4607295819,"grass, mallow","grass sp., Malva sp.",Co-occur
+4145436768,ground cover,NA,Co-occur
+3985715027,gum plant,Grindelia squarrosa,Co-occur
+1586096953,Gumplant,Grindelia squarrosa,Pollination
+1572368993,Gumplant,Grindelia squarrosa,Pollination
+4935938319,hollyhock,Alcea sp.,Herbivory
+1640027411,"Hooker's Evening Primrose, Oenothera elata hookeri",Oenothera elata,Co-occur
+4171186680,horsetaililkweef,Asclepias subverticillata,Co-occur
+4430570446,jade plant (Crassula ovata),Crassula ovata,Co-occur
+3966661308,juniper or cyprus,Juniperus sp. or Cupressus sp.,Co-occur
+4891630045,lantana,Lantana camara,Pollination
+4506344877,lantana,Lantana camara,Co-occur
+4438763455,Lantana,Lantana camara,Co-occur
+4417055449,Lantana,Lantana camara,Co-occur
+4417026312,lantana,Lantana camara,Co-occur
+4009775737,lantana,Lantana camara,Co-occur
+4009713749,lantana,Lantana camara,Co-occur
+4006705266,lantana,Lantana camara,Co-occur
+4006625300,lantana,Lantana camara,Co-occur
+3772555532,lantana,Lantana camara,Co-occur
+3325627498,lantana,Lantana camara,Co-occur
+3109196720,lantana,Lantana camara,Pollination
+2864790945,lantana,Lantana camara,Co-occur
+2823292730,lantana,Lantana camara,Co-occur
+2818738189,Lantana,Lantana camara,Pollination
+1839246536,Lantana,Lantana camara,Pollination
+1269561037,Lantana,Lantana camara,Co-occur
+1088895818,Lantana,Lantana camara,Pollination
+3712429041,"Lantana, Encelia farinosa","Lantana camara, Encelia farinosa",Co-occur
+3499425290,"Lantana, Encelia, Sphaeralceas","Lantana camara, Encelia sp., Sphaeralceas sp.",Co-occur
+891715699,Lavandula dentata,Lavandula dentata,Pollination
+5087899680,lavatera,Lavatera sp.,Herbivory
+4121454597,"lavatera, cheeseweed","Lavandula sp., Malva parviflora",Co-occur
+3039240328,Lavender,Lavandula dentata,Co-occur
+4414420038,lavender bush,Lavandula dentata,Co-occur
+2579358661,leafy green plants,plant sp.,Co-occur
+1455570324,"lilac verbena, Santa Cruz buckwheat","Verbena lilacina, Eriogonum arborescens",Co-occur
+1890693958,lobelia,Lobelia sp.,Pollination
+1052607347,low shrubs,shrub sp.,Co-occur
+3416077196,Lycianthes rantonnetii,Lycianthes rantonnetii,Pollination
+3947459737,madrone,Arbutus sp.,Pollination
+2242835019,madrone tree,Arbutus sp.,Pollination
+4405102580,Malacothamnus fremontii,Malacothamnus fremontii,Co-occur
+4946457283,mallow,Malva sp.,Herbivory
+4900882935,mallow,Malva sp.,Herbivory
+4892163202,mallow,Malva sp.,Herbivory
+4892090210,Mallow,Malva sp.,Co-occur
+4892015112,mallow,Malva sp.,Co-occur
+4872156982,mallow,Malva sp.,Herbivory
+4855523672,mallow,Malva sp.,Herbivory
+4855430945,mallow,Malva sp.,Herbivory
+4855309140,mallow,Malva sp.,Herbivory
+4855217796,mallow,Malva sp.,Herbivory
+4855215565,mallow,Malva sp.,Herbivory
+4507845237,mallow,Malva sp.,Herbivory
+4500782349,mallow,Malva sp.,Herbivory
+4500517273,mallow,Malva sp.,Herbivory
+4436282489,mallow,Malva sp.,Herbivory
+4400451471,mallow,Malva sp.,Herbivory
+4400447440,mallow,Malva sp.,Herbivory
+4399857464,mallow,Malva sp.,Herbivory
+4116253188,Mallow,Malva sp.,Co-occur
+4116118038,Mallow,Malva sp.,Co-occur
+3859137118,mallow,Malva sp.,Herbivory
+3858413611,mallow,Malva sp.,Herbivory
+3802403100,mallow,Malva sp.,Co-occur
+3705490110,mallow,Malva sp.,Herbivory
+3455246341,mallow,Malva sp.,Herbivory
+2850664202,mallow,Malva sp.,Herbivory
+2603321768,Mallow,Malva sp.,Herbivory
+4440925762,mallow (Malva),Malva sp.,Pollination
+3499445234,"mallow, rose","Malva sp., Rosa sp.",Co-occur
+3760267198,"mallow, sorrel","Malva sp., Rumex acetosa",Co-occur
+4405128865,Malva assurgentiflora,Malva assurgentiflora,Co-occur
+3314236722,Malva assurgentiflora,Malva assurgentiflora,Co-occur
+3457157210,Malva neglecta,Malva neglecta,Herbivory
+3455838392,Malva neglecta,Malva neglecta,Herbivory
+3005229811,Malva neglecta,Malva neglecta,Herbivory
+3005157808,Malva neglecta,Malva neglecta,Herbivory
+2580207115,Malva Neglecta,Malva neglecta,Herbivory
+3772784687,"Malva neglecta, Oxalis corniculata","Malva neglecta, Oxalis corniculata",Co-occur
+4954408575,Malva parviflora,Malva parviflora,Herbivory
+4431269896,Malva parviflora,Malva parviflora,Herbivory
+3321091062,Malva parviflora,Malva parviflora,Co-occur
+4171780440,marigold,Tagetes sp.,Co-occur
+3398821489,marigold,Tagetes sp.,Co-occur
+2466495668,marigolds,Tagetes sp.,Pollination
+4982277991,mexican marigold (tagetes lemmonii),Tagetes lemmonii,Pollination
+4405067968,Monardella sp.,Monardella sp.,Pollination
+4978285458,"Mugwort, Artemisia douglasiana",Artemisia douglasiana,Co-occur
+4067386435,Mulefat plant,Baccharis salicifolia,Co-occur
+4875585104,mustard,Brassica sp.,Co-occur
+4872513803,mustard,Brassica sp.,Pollination
+4171467809,Narrow-leaved Milkweed,Asclepias fascicularis,Co-occur
+2028453748,native salvia,Salvia sp.,Pollination
+4102725254,Nepeta hybrid,Nepeta sp.,Co-occur
+2980823119,"Orange tree, Grapefruit tree, Tomato plant, Avocado tree","Citrus sp., Solanum lycopersicum, Persea americana",Co-occur
+4413999989,oregano,Oreganum vulgare,Pollination
+4436359236,Pacific Aster,Symphyotrichum chilense,Pollination
+1933576448,Pacific Asters,Symphyotrichum chilense,Pollination
+891048362,palm,Arecaceae sp.,Co-occur
+4516410704,pansy,Viola tricolor,Pollination
+4413862939,Pennyroyal,Mentha pulegium,Pollination
+4165788975,Pennyroyal,Mentha pulegium,Co-occur
+1640118706,pennyroyal,Mentha pulegium,Co-occur
+4978174373,Phacelia distans,Phacelia distans,Pollination
+4134004232,Pink,NA,Pollination
+891748848,Piper,Piper sp.,Co-occur
+1500283679,plants,plant sp.,Co-occur
+1890686009,plumbago,Plumbago sp.,Co-occur
+4440981819,Plumbago auriculata,Plumbago auriculata,Pollination
+2447977093,"plumbego, lantana","Plumbago sp., Lantana camara",Co-occur
+4076076748,poplar trees,Populus sp.,Co-occur
+2873896552,purple mum,Chrysanthemum sp.,Pollination
+3772626386,purple sage,Salvia leucophylla,Co-occur
+4430683906,purple star-thistle,Centaurea calcitrapa,Pollination
+2429589697,rabbit brush,Chrysothamnus sp.,Pollination
+2466530141,rabbitbrush,Chrysothamnus sp.,Pollination
+2466528059,rabbitbrush,Chrysothamnus sp.,Pollination
+3468735674,Red Ironbark,Eucalyptus sideroxylon,Co-occur
+4438738273,Red Valerian,Valeriana rubra,Co-occur
+4936945956,redwoods,Sequoioideae sp.,Co-occur
+1038287495,redwoods,Sequoioideae sp.,Co-occur
+3416125810,Rhus ovata,Rhus ovata,Co-occur
+3456300651,rosemary,Salvia rosmarinus,Pollination
+1702461320,rosemary,Salvia rosmarinus,Co-occur
+3802384705,Ruellia,Ruellia sp.,Co-occur
+1883557197,Russian Sage,Salvia yangii,Pollination
+4126944744,Salvia,Salvia sp.,Co-occur
+3743299445,Salvia,Salvia sp.,Co-occur
+4853216465,Salvia apiana,Salvia apiana,Co-occur
+4442691037,sea lavender,Limonium sp.,Co-occur
+4424553845,"Sea Rocket, Verbina","Cakile maritima, Verbena sp.",Pollination
+4424541957,"Sea Rocket, Verbina","Cakile maritima, Verbena sp.",Pollination
+4405374108,Searocket,Cakile maritima,Co-occur
+3860709743,"seaside daiisies, clover","Erigeron glaucus, Trifolium sp.",Co-occur
+4111928725,Seaside daisies,Erigeron glaucus,Pollination
+3892662860,seaside daisies,Erigeron glaucus,Co-occur
+4145435863,Seaside daisy,Erigeron glaucus,Co-occur
+3802776657,Seaside Daisy,Erigeron glaucus,Co-occur
+2429417151,Sensitive Plants (Genus Mimosa),Mimosa sp.,Co-occur
+4138536629,shortpod mustard,Hirschfeldia incana,Pollination
+4138257283,shortpod mustard,Hirschfeldia incana,Pollination
+3947523782,shrubby rock rose,Cistus sp.,Co-occur
+891056420,Sidalcea malviflora,Sidalcea malviflora,Herbivory
+2850689126,Sidalcea oregana,Sidalcea oregana,Co-occur
+891722415,sidewalk flowers,flowering plant sp.,Co-occur
+1562881808,small lavender flowers,Lavandula dentata,Pollination
+4138558819,Sphaeralcea,Sphaeralcea sp.,Co-occur
+4875482052,Sphaeralcea 'Newleaze Coral',Sphaeralcea sp.,Herbivory
+2540807727,Sphaeralcea ambigua,Sphaeralcea ambigua,Herbivory
+2429339921,Sphaeralcea incana,Sphaeralcea incana,Herbivory
+4172118364,Spreading Dogbane,Apocynum androsaemifolium,Co-occur
+4424658320,Stinging Nettle,Urtica dioica,Co-occur
+4145789756,stinging nettle,Urtica dioica,Herbivory
+4400314476,stinging nettles,Urtica dioica,Co-occur
+2466487408,sunflowers,Helianthus sp.,Pollination
+1677300357,sunflowers,Helianthus sp.,Co-occur
+4153475101,sweet scabious,Scabiosa atropurpurea,Pollination
+4453942640,Tagetes,Tagetes sp.,Co-occur
+4500628425,tiger milkweed,NA,Co-occur
+3384819783,Tithonia tubaeformis,Tithonia tubaeformis,Pollination
+3344044400,Tithonia tubaeformis,Tithonia tubaeformis,Pollination
+3343906608,Tithonia tubaeformis,Tithonia tubaeformis,Pollination
+3333311610,Tithonia tubaeformis,Tithonia tubaeformis,Pollination
+3330605398,Tithonia tubaeformis,Tithonia tubaeformis,Pollination
+3384956180,"Tithonia tubaeformis, Calendula officinalis","Tithonia tubaeformis, Calendula officinalis",Pollination
+3337582975,"Tithonia tubaeformis, Lantana camara","Tithonia tubaeformis, Lantana camara",Pollination
+3109223315,trailing lantana,Lantana montevidensis,Co-occur
+4145431692,tree mallow,Lavatera maritima,Herbivory
+4407311575,"tree mallow (Lavatera), globe mallow (Sphaeralcea), bush mallow (Malvastrum), mallow (Malva), alkali mallow (Sida), checkerbloom (Sidalcea), hollyhock (Althea)","Lavatera sp., Sphaeralcea sp., Malvastrum sp., Malva sp., Sida sp., Sidalcea sp., Althea sp.",Herbivory
+1038339232,vegetacion,plant sp.,Co-occur
+3705422718,Verbena,Verbena sp.,Co-occur
+1880640547,Verbena bonarensis,Verbena bonarensis,Co-occur
+4436269129,verbena de la mina,Verbena lilacina,Co-occur
+2269241280,Verbena lilacina,Verbena lilacina,Pollination
+2265863820,Verbena lilacina,Verbena lilacina,Pollination
+2251957194,Verbena lilacina,Verbena lilacina,Pollination
+1562897450,Verbena lilacina,Verbena lilacina,Co-occur
+3090893629,Verbena lilacina 'De La Mina',Verbena lilacina,Pollination
+2980806666,Verbesina encelioides,Verbesina encelioides,Co-occur
+4901597371,Verbesina lilacina,Verbena lilacina,Pollination
+2236219145,Water Cress,Nasturtium officinale,Pollination
+4421151042,Western Mountain Aster,Symphyotrichum spathulatum,Pollination
+4420906445,Western Mountain Aster,Symphyotrichum spathulatum,Pollination
+4417028494,Western Mountain Aster,Symphyotrichum spathulatum,Pollination
+4413532286,Western Mountain Asters,Symphyotrichum spathulatum,Pollination
+3772473334,wild radish,Raphanus raphanistrum,Pollination
+3008410425,yellow Sweet Clover,Melilotus officinalis,Pollination
+4436308122,zinnia,Zinnia sp.,Co-occur
+4407607315,Zinnia,Zinnia sp.,Co-occur
+4177265786,Zinnia,Zinnia sp.,Co-occur
+4976492669,Zinnia elegans,Zinnia elegans,Co-occur
+923916653,,,No interaction
+899979973,,,No interaction
+899968180,,,No interaction
+899967838,,,No interaction
+891766971,,,No interaction
+891766692,,,No interaction
+891766677,,,No interaction
+891766613,,,No interaction
+891766611,,,No interaction
+891757458,,,No interaction
+891740592,,,No interaction
+891734266,,,No interaction
+891713693,,,No interaction
+891166880,,,No interaction
+891150979,,,No interaction
+891149348,,,No interaction
+891142480,,,No interaction
+891140299,,,No interaction
+891135396,,,No interaction
+891108808,,,No interaction
+891069072,,,No interaction
+891067173,,,No interaction
+891064466,,,No interaction
+891058511,,,No interaction
+891050936,,,No interaction
+5104277383,,,No interaction
+5087261214,,,No interaction
+5087257941,,,No interaction
+5077067193,,,No interaction
+5070068327,,,No interaction
+5063954726,,,No interaction
+5063888056,,,No interaction
+5063700560,,,No interaction
+5063037065,,,No interaction
+5062914992,,,No interaction
+5008145130,,,No interaction
+5008042066,,,No interaction
+5008010266,,,No interaction
+5007466300,,,No interaction
+4993878426,,,No interaction
+4993748545,,,No interaction
+4982376758,,,No interaction
+4980726441,,,No interaction
+4980348487,,,No interaction
+4978602944,,,No interaction
+4978564300,,,No interaction
+4974171197,,,No interaction
+4954316245,,,No interaction
+4954299832,,,No interaction
+4954294248,,,No interaction
+4952790608,,,Co-occur
+4952574646,,,No interaction
+4950569439,,,No interaction
+4950373582,,,No interaction
+4950282394,,,No interaction
+4949845891,,,No interaction
+4949840482,,,No interaction
+4946599228,,,No interaction
+4946251937,,,No interaction
+4945707341,,,No interaction
+4945579115,,,No interaction
+4937154219,,,No interaction
+4937144720,,,No interaction
+4937122526,,,No interaction
+4937030291,,,No interaction
+4936961296,,,No interaction
+4936803153,,,No interaction
+4936610598,,,No interaction
+4936582376,,,No interaction
+4936531443,,,No interaction
+4936509125,,,No interaction
+4936498277,,,No interaction
+4936495662,,,No interaction
+4936488865,,,No interaction
+4936479484,,,No interaction
+4936469812,,,No interaction
+4936452725,,,No interaction
+4936340116,,,No interaction
+4936311557,,,No interaction
+4936154035,,,No interaction
+4936129688,,,No interaction
+4935981844,,,No interaction
+4935939191,,,No interaction
+4935853925,,,No interaction
+4935842467,,,No interaction
+4935828556,,,No interaction
+4935733930,,,No interaction
+4935644000,,,No interaction
+4926062942,,,No interaction
+4908980570,,,No interaction
+4908977503,,,No interaction
+4908844226,,,No interaction
+4908382321,,,No interaction
+4908339386,,,No interaction
+4908255078,,,No interaction
+4904339905,,,No interaction
+4901705685,,,No interaction
+4901196947,,,No interaction
+4892005166,,,No interaction
+4868101253,,,No interaction
+4868012833,,,No interaction
+4867758178,,,No interaction
+4867699176,,,No interaction
+4867611542,,,No interaction
+4863959514,,,No interaction
+4863722958,,,No interaction
+4863581512,,,No interaction
+4855291797,,,No interaction
+4852753031,,,Pollination
+4852468891,,,No interaction
+4846839074,,,No interaction
+4600181743,,,No interaction
+4597557245,,,No interaction
+4597422956,,,No interaction
+4597257168,,,No interaction
+4536007484,,,No interaction
+4535892963,,,No interaction
+4528349238,,,No interaction
+4528100030,,,No interaction
+4528082922,,,No interaction
+4528064020,,,No interaction
+4525258867,,,No interaction
+4519176557,,,No interaction
+4519035582,,,No interaction
+4516415456,,,No interaction
+4510353159,,,No interaction
+4510233460,,,No interaction
+4510147535,,,No interaction
+4506416045,,,No interaction
+4500767271,,,No interaction
+4500584500,,,No interaction
+4458638080,,,No interaction
+4458435668,,,No interaction
+4458399177,,,No interaction
+4454082941,,,No interaction
+4454000864,,,No interaction
+4453991762,,,No interaction
+4453936863,,,No interaction
+4453931403,,,No interaction
+4442738007,,,No interaction
+4442518261,,,No interaction
+4442440976,,,No interaction
+4440755722,,,No interaction
+4440599163,,,No interaction
+4438780651,,,No interaction
+4438755501,,,No interaction
+4438738036,,,No interaction
+4436450307,,,No interaction
+4436163772,,,No interaction
+4430811359,,,No interaction
+4430750774,,,No interaction
+4430703628,,,No interaction
+4430568527,,,No interaction
+4430548148,,,No interaction
+4424089300,,,No interaction
+4420765193,,,No interaction
+4420695000,,,No interaction
+4417153579,,,No interaction
+4417018428,,,No interaction
+4416820554,,,No interaction
+4414402933,,,No interaction
+4414380731,,,No interaction
+4414148016,,,No interaction
+4414027550,,,No interaction
+4413718845,,,No interaction
+4413372138,,,No interaction
+4407615524,,,No interaction
+4407502284,,,No interaction
+4407291778,,,No interaction
+4405325006,,,No interaction
+4405308775,,,No interaction
+4400323283,,,No interaction
+4399881912,,,No interaction
+4177581422,,,No interaction
+4177562922,,,No interaction
+4177512513,,,No interaction
+4177361135,,,No interaction
+4177289549,,,No interaction
+4177000191,,,No interaction
+4172109016,,,No interaction
+4171905109,,,No interaction
+4171860070,,,No interaction
+4167500335,,,No interaction
+4165827295,,,No interaction
+4165770398,,,No interaction
+4165517665,,,No interaction
+4163796307,,,No interaction
+4162593421,,,No interaction
+4162532004,,,No interaction
+4162298779,,,No interaction
+4153920796,,,No interaction
+4153888984,,,No interaction
+4153588103,,,No interaction
+4153562953,,,No interaction
+4153495501,,,No interaction
+4145724506,,,No interaction
+4145704687,,,No interaction
+4145667133,,,No interaction
+4138658448,,,No interaction
+4138657848,,,No interaction
+4138607423,,,No interaction
+4133910337,,,No interaction
+4133650842,,,No interaction
+4130187787,,,No interaction
+4127345147,,,No interaction
+4127276140,,,No interaction
+4111995801,,,No interaction
+4111825132,,,No interaction
+4103426561,,,No interaction
+4103331649,,,Co-occur
+4103201206,,,No interaction
+4102873764,,,No interaction
+4096908741,,,No interaction
+4096857193,,,No interaction
+4075833934,,,No interaction
+4067307881,,,No interaction
+4067256144,,,No interaction
+4067244659,,,No interaction
+4063094087,,,No interaction
+4062549590,,,No interaction
+4054761277,,,No interaction
+4054755132,,,No interaction
+4046607752,,,No interaction
+4046456862,,,No interaction
+4034759860,,,No interaction
+4022128471,,,No interaction
+4018558161,,,No interaction
+4015095492,,,No interaction
+3985955623,,,No interaction
+3985898240,,,No interaction
+3985893713,,,No interaction
+3985794617,,,No interaction
+3966798419,,,No interaction
+3963632311,,,No interaction
+3963594330,,,No interaction
+3963409052,,,No interaction
+3947549581,,,No interaction
+3903575846,,,No interaction
+3903251885,,,No interaction
+3903116814,,,No interaction
+3902711701,,,No interaction
+3902083381,,,No interaction
+3892422216,,,No interaction
+3892378693,,,No interaction
+3892269547,,,No interaction
+3888936576,,,No interaction
+3888769695,,,No interaction
+3881749187,,,No interaction
+3881673501,,,No interaction
+3874133355,,,No interaction
+3873816495,,,No interaction
+3873792247,,,No interaction
+3873778834,,,No interaction
+3872863516,,,No interaction
+3860693893,,,No interaction
+3860579679,,,No interaction
+3785180763,,,No interaction
+3785137600,,,No interaction
+3785052048,,,No interaction
+3785048867,,,No interaction
+3784935290,,,No interaction
+3784811614,,,Pollination
+3784761559,,,No interaction
+3773503803,,,No interaction
+3773122579,,,Pollination
+3772988743,,,Pollination
+3772673176,,,No interaction
+3772546678,,,No interaction
+3760394727,,,No interaction
+3760296853,,,No interaction
+3760245726,,,No interaction
+3760170107,,,No interaction
+3760000944,,,No interaction
+3759696221,,,No interaction
+3759538631,,,No interaction
+3759470532,,,No interaction
+3759439535,,,No interaction
+3759092256,,,No interaction
+3753816347,,,No interaction
+3747339925,,,No interaction
+3747319301,,,No interaction
+3747261520,,,No interaction
+3747084290,,,Co-occur
+3746999753,,,No interaction
+3743275188,,,No interaction
+3743118527,,,No interaction
+3712691904,,,No interaction
+3712592846,,,No interaction
+3712533920,,,No interaction
+3712447826,,,No interaction
+3698112450,,,No interaction
+3499403673,,,No interaction
+3466515110,,,No interaction
+3456661937,,,No interaction
+3456442815,,,No interaction
+3456407192,,,No interaction
+3456357248,,,No interaction
+3456212355,,,No interaction
+3455760629,,,No interaction
+3455345200,,,No interaction
+3427541632,,,No interaction
+3427527689,,,No interaction
+3427518461,,,No interaction
+3427499822,,,No interaction
+3427465624,,,No interaction
+3427448282,,,No interaction
+3427445234,,,No interaction
+3427444073,,,No interaction
+3427439237,,,No interaction
+3416153489,,,No interaction
+3416099563,,,No interaction
+3415592648,,,No interaction
+3408207752,,,No interaction
+3399416480,,,No interaction
+3399128308,,,No interaction
+3398736983,,,No interaction
+3397593401,,,No interaction
+3397577840,,,No interaction
+3397558772,,,No interaction
+3397558113,,,No interaction
+3397475412,,,No interaction
+3397444765,,,No interaction
+3397423402,,,No interaction
+3397395724,,,No interaction
+3397370649,,,No interaction
+3391703330,,,No interaction
+3391397048,,,No interaction
+3391307943,,,No interaction
+3384963650,,,No interaction
+3384747282,,,No interaction
+3384744276,,,No interaction
+3384582493,,,No interaction
+3384478769,,,No interaction
+3384415607,,,No interaction
+3384248021,,,No interaction
+3384213132,,,No interaction
+3384027282,,,No interaction
+3355337034,,,No interaction
+3344008739,,,No interaction
+3343731306,,,No interaction
+3338150617,,,No interaction
+3337920434,,,No interaction
+3337669456,,,No interaction
+3335267464,,,No interaction
+3333119059,,,No interaction
+3330717643,,,No interaction
+3327965242,,,No interaction
+3327885653,,,No interaction
+3325788933,,,No interaction
+3321083100,,,No interaction
+3320851100,,,No interaction
+3307142132,,,No interaction
+3302034906,,,No interaction
+3301797201,,,No interaction
+3124521597,,,No interaction
+3118385237,,,No interaction
+3117910575,,,No interaction
+3113351810,,,No interaction
+3112775969,,,No interaction
+3109051605,,,No interaction
+3109012118,,,No interaction
+3090820822,,,No interaction
+3079900303,,,No interaction
+3061794954,,,No interaction
+3058998171,,,No interaction
+3044683469,,,No interaction
+3032134105,,,No interaction
+3018149015,,,No interaction
+3008529395,,,No interaction
+3008384681,,,No interaction
+3005250741,,,No interaction
+3005138901,,,No interaction
+2999192161,,,No interaction
+2992737736,,,No interaction
+2988716985,,,No interaction
+2988420759,,,No interaction
+2980788698,,,No interaction
+2963742834,,,No interaction
+2898502164,,,No interaction
+2883071879,,,No interaction
+2882962741,,,No interaction
+2868244714,,,No interaction
+2868194238,,,No interaction
+2868112831,,,No interaction
+2862432425,,,No interaction
+2850649887,,,No interaction
+2826520029,,,No interaction
+2823130285,,,No interaction
+2803167687,,,No interaction
+2803084732,,,No interaction
+2802955769,,,No interaction
+2802934380,,,No interaction
+2641412774,,,No interaction
+2634084697,,,No interaction
+2626525551,,,No interaction
+2626435196,,,Co-occur
+2626375427,,,Co-occur
+2626321466,,,No interaction
+2626282343,,,Co-occur
+2626139048,,,No interaction
+2620102867,,,No interaction
+2611355746,,,No interaction
+2611300083,,,No interaction
+2611277502,,,No interaction
+2609192036,,,No interaction
+2597879220,,,No interaction
+2596177641,,,No interaction
+2580091083,,,No interaction
+2579239387,,,No interaction
+2576498267,,,No interaction
+2574310952,,,No interaction
+2574157778,,,No interaction
+2573981538,,,No interaction
+2563505629,,,No interaction
+2557789889,,,No interaction
+2542754886,,,No interaction
+2542754841,,,No interaction
+2542753742,,,No interaction
+2542753668,,,No interaction
+2542753589,,,No interaction
+2542753513,,,No interaction
+2542753499,,,No interaction
+2518011556,,,No interaction
+2466542427,,,No interaction
+2466529864,,,No interaction
+2466515854,,,No interaction
+2466501552,,,No interaction
+2466500508,,,No interaction
+2466491776,,,No interaction
+2466487179,,,No interaction
+2466478895,,,No interaction
+2466477507,,,No interaction
+2466476906,,,No interaction
+2466474223,,,No interaction
+2466473813,,,No interaction
+2466473722,,,No interaction
+2466464673,,,No interaction
+2466462912,,,No interaction
+2466459161,,,No interaction
+2466458939,,,No interaction
+2466458540,,,No interaction
+2466458008,,,No interaction
+2466451968,,,No interaction
+2466451903,,,No interaction
+2466450196,,,No interaction
+2466449867,,,No interaction
+2466449831,,,No interaction
+2466449707,,,No interaction
+2466449585,,,No interaction
+2466449363,,,No interaction
+2466448705,,,No interaction
+2466448676,,,No interaction
+2466448275,,,No interaction
+2466447946,,,No interaction
+2466447907,,,No interaction
+2466440714,,,No interaction
+2466438780,,,No interaction
+2466438734,,,No interaction
+2447964937,,,No interaction
+2445127731,,,No interaction
+2429428053,,,No interaction
+2429297866,,,No interaction
+2423140166,,,No interaction
+2422983562,,,No interaction
+2422982745,,,No interaction
+2397618902,,,No interaction
+2397540883,,,No interaction
+2397526602,,,No interaction
+2397465643,,,No interaction
+2366141398,,,No interaction
+2366107063,,,No interaction
+2350447481,,,Herbivory
+2350366684,,,No interaction
+2311381458,,,No interaction
+2294664566,,,No interaction
+2294640109,,,No interaction
+2294591287,,,No interaction
+2294495947,,,No interaction
+2283280458,,,No interaction
+2283247243,,,No interaction
+2283095033,,,No interaction
+2283037266,,,No interaction
+2273307226,,,No interaction
+2252079528,,,No interaction
+2252035022,,,No interaction
+2251972265,,,No interaction
+2251962658,,,No interaction
+2251962603,,,No interaction
+2251907588,,,No interaction
+2242942147,,,Pollination
+2242747177,,,No interaction
+2239040970,,,No interaction
+2239033404,,,No interaction
+2238918584,,,No interaction
+2238914598,,,No interaction
+2238874548,,,No interaction
+2237495148,,,No interaction
+2236873746,,,Pollination
+2236251133,,,No interaction
+2236231103,,,No interaction
+2236230488,,,No interaction
+2235552555,,,No interaction
+2235503218,,,No interaction
+2235486257,,,No interaction
+2235480944,,,No interaction
+2234801661,,,No interaction
+2234800662,,,No interaction
+2234776190,,,No interaction
+2028499630,,,No interaction
+2028490394,,,No interaction
+2028447436,,,No interaction
+2013734901,,,No interaction
+2013022740,,,No interaction
+1986600820,,,No interaction
+1978468385,,,No interaction
+1948787681,,,No interaction
+1948729002,,,No interaction
+1946362677,,,No interaction
+1946336911,,,No interaction
+1920804414,,,No interaction
+1920801877,,,No interaction
+1914250159,,,No interaction
+1914212893,,,No interaction
+1914204933,,,No interaction
+1914201253,,,No interaction
+1898797073,,,No interaction
+1898791911,,,No interaction
+1891335787,,,No interaction
+1883963756,,,No interaction
+1883963105,,,No interaction
+1880595068,,,No interaction
+1848809721,,,Pollination
+1847535970,,,No interaction
+1847479204,,,No interaction
+1846939577,,,No interaction
+1846877036,,,No interaction
+1846877035,,,No interaction
+1846877032,,,No interaction
+1846877031,,,No interaction
+1846877028,,,No interaction
+1846877026,,,No interaction
+1846877024,,,No interaction
+1846877021,,,No interaction
+1846876956,,,No interaction
+1846876955,,,No interaction
+1846876953,,,No interaction
+1846876952,,,No interaction
+1846876937,,,No interaction
+1846876933,,,No interaction
+1846876926,,,No interaction
+1846876911,,,No interaction
+1836632057,,,No interaction
+1836616727,,,No interaction
+1836616692,,,No interaction
+1831087768,,,No interaction
+1802690709,,,No interaction
+1802675298,,,No interaction
+1802661406,,,No interaction
+1677317337,,,No interaction
+1668859412,,,No interaction
+1640036266,,,No interaction
+1586915618,,,No interaction
+1586096613,,,No interaction
+1586092167,,,No interaction
+1586091679,,,No interaction
+1586089018,,,No interaction
+1584417227,,,No interaction
+1584414463,,,No interaction
+1584413196,,,No interaction
+1584408478,,,No interaction
+1580517216,,,No interaction
+1572361889,,,No interaction
+1571164982,,,No interaction
+1571155357,,,No interaction
+1571155333,,,No interaction
+1562977691,,,No interaction
+1562891443,,,No interaction
+1500301461,,,No interaction
+1500300506,,,No interaction
+1500297223,,,No interaction
+1500297193,,,No interaction
+1500297111,,,No interaction
+1500288927,,,No interaction
+1500286568,,,No interaction
+1500279182,,,No interaction
+1500261184,,,No interaction
+1500231618,,,No interaction
+1500230719,,,No interaction
+1500217760,,,No interaction
+1457616579,,,No interaction
+1455573102,,,No interaction
+1455569768,,,No interaction
+1453523914,,,No interaction
+1453387158,,,No interaction
+1453321962,,,No interaction
+1453300280,,,No interaction
+1453244319,,,No interaction
+1453233850,,,No interaction
+1453185761,,,No interaction
+1453178936,,,No interaction
+1453163302,,,No interaction
+1323033959,,,No interaction
+1315079817,,,No interaction
+1315075640,,,No interaction
+1306586811,,,No interaction
+1305170878,,,No interaction
+1305133545,,,No interaction
+1291143592,,,No interaction
+1291142636,,,No interaction
+1291113847,,,No interaction
+1272089492,,,No interaction
+1270050647,,,No interaction
+1269584241,,,No interaction
+1265896784,,,No interaction
+1265593313,,,No interaction
+1265578667,,,No interaction
+1265570655,,,No interaction
+1265561489,,,No interaction
+1262378079,,,No interaction
+1253305276,,,No interaction
+1253305220,,,No interaction
+1249301126,,,No interaction
+1227722651,,,No interaction
+1211995490,,,No interaction
+1211979629,,,No interaction
+1144979621,,,No interaction
+1144282233,,,No interaction
+1143554649,,,No interaction
+1134969824,,,No interaction
+1132410869,,,No interaction
+1122960709,,,No interaction
+1122960615,,,No interaction
+1099959574,,,No interaction
+1099958370,,,No interaction
+1098909459,,,No interaction
+1098904843,,,No interaction
+1098903543,,,No interaction
+1098901729,,,No interaction
+1092908614,,,No interaction
+1088973963,,,No interaction
+1088947342,,,No interaction
+1088940384,,,No interaction
+1088933744,,,No interaction
+1065614921,,,No interaction
+1065593018,,,No interaction
+1065589174,,,No interaction
+1052607363,,,No interaction
+1052578220,,,No interaction
+1052576572,,,No interaction
+1052573440,,,No interaction
+1042821878,,,No interaction
+1042816889,,,No interaction
+1024201464,,,No interaction
+1024201381,,,No interaction
+1024194354,,,No interaction
+1024192742,,,No interaction
+1024180141,,,No interaction
