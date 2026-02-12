@@ -42,7 +42,7 @@ species_others = species_partial_matches %>%
 # Read GBIF and GloBi data
 
 gbif_all = read_csv("Plant-Pollinator/plant_poll_1000_output.csv")
-globi_all = read_csv("Plant-Pollinator/Vanesss_annabella.csv")
+globi_all = read_csv("Plant-Pollinator/Vanessa_annabella.csv")
 
 # Filter GBIF data for pollination only
 
